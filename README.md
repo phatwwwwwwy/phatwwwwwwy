@@ -1,16 +1,22 @@
-## Hi there 👋
+Hi 👋, I'm DOI SY PHAT
+Sophomore majoring in IC Design | Passionate about RTL Design & FPGA
 
-<!--
-**phatwwwwwwy/phatwwwwwwy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Academic Background
 
-Here are some ideas to get you started:
+Currently studying at VN-UK Institute for Research and Executive Education.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Strong foundation in Digital Electronics, Computer Architecture, and Operating Systems.
+
+🔬 Current Focus
+
+Working on an FPGA Research Project regarding [Tên đề tài NCKH].
+
+Deepening knowledge in Hardware Description Languages (Verilog/SystemVerilog) via coursework.
+
+🛠️ Tech Stack & Tools
+
+Hardware: Verilog HDL, FPGA (Xilinx/Intel), Digital Logic Design.
+
+Software & Concepts: C/C++, Java, Data Structures & Algorithms, Operating Systems.
+
+EDA Tools: Vivado, Vitis.
