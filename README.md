@@ -9,7 +9,7 @@ Strong foundation in Digital Electronics, Computer Architecture, and Operating S
 
 🔬 Current Focus
 
-Working on an FPGA Research Project regarding [Tên đề tài NCKH].
+Working on an FPGA Research Project regarding FPGA-Accelerated Proactive Deepfake Image Detection for Real-Time Applications.
 
 Deepening knowledge in Hardware Description Languages (Verilog/SystemVerilog) via coursework.
 
